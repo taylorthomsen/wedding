@@ -11,6 +11,7 @@
         "theme",
         "template"
     ],
+    "start": "npm start",
     "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
