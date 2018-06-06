@@ -111,13 +111,13 @@ h6 {
   }
 }
 
-@media (min-width: 400px) {
+@media (max-width: 400px) {
   .masthead {
     height: 100vh;
     color: white;
   }
   .masthead h1 {
-    font-size: 3.5rem;
+    font-size: 3rem;
     color: white;
   }
 }
@@ -590,4 +590,16 @@ a:hover, a:focus, a:active {
 .survey {
   height: 500px;
   width: 500px;
+}
+
+@media (max-width: 500px) {
+  .survey {
+    height: 500px;
+    width: 300px;
+  }
+}
+
+.hotel-link {
+  color: white;
+  text-decoration: underline;
 }
