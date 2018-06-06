@@ -587,6 +587,7 @@ a:hover, a:focus, a:active {
   color: #353a3f !important;
 }
 
-.survey-rsvp {
-  margin: 0 auto;
+.survey {
+  height: 500px;
+  width: 500px;
 }
